@@ -1,0 +1,12 @@
+{
+    "name": "jsonblobs",
+    "version": "2.0.0",
+    "main": "src/jsonblob.js",
+    "repository": "https://github.com/br0keh/jsonblob.js",
+    "author": "brokeh",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "sucrase": "^3.12.1"
+    }
+}
