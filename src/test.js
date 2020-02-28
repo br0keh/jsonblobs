@@ -1,11 +1,3 @@
-# :gem: jsonblobs
-
-Javascript Wrapper for JSONBlob API
-Create a cloud JSON file, read and edit. SIMPLE AND EASY.
-
-Example
-
-```js
 const jsonblob = require("./jsonblob");
 
 (async function() {
@@ -34,4 +26,3 @@ const jsonblob = require("./jsonblob");
     console.log(content);
     // Object { world: "hello" }
 })();
-```
