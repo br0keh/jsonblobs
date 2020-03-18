@@ -11,7 +11,7 @@ Example
 const jsonblob = require("./jsonblob");
 
 (async function() {
-    const jb = jsonblobs();
+    const jb = jsonblob();
 
     let blob = await jb.create({ hello: "world" });
 
